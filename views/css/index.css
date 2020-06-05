@@ -1,0 +1,15 @@
+
+/*Reemplace estas propiedades del container-fluid de bootstrap para sacarle el padding
+sin tocar el codigo original*/
+.container-fluid{
+    padding-right: 0px;
+    padding-left: 0px;  
+
+}
+
+
+.sideBar{
+    background-color: blue;
+    position: fixed;
+    height: 100%;
+}
